@@ -108,7 +108,7 @@ const ProductsPage = () => {
             to='mailto:contact@viridfuture.com?subject=Early Access or Feedback on Virid Punk&body=Hello, I would like to learn more about Virid Punk and participate in early-stage feedback.'
             style={{ padding: '8px 16px' }}
           >
-            Contact us 
+            Kindly visit our support page
           </Button>
         </div>
       </div>
